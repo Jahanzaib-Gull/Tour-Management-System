@@ -8,14 +8,14 @@ I’m thrilled to share my console-based Tour Management System designed to stre
 🔹Add, view, sort (by price), and delete tours.
 🔹Manage users and track bookings/feedback.
 
-### ✅ Customer Portal:
+ ### ✅ Customer Portal:
 
 🔹Category-based tour filtering (e.g., Adventure, Luxury).
 🔹Price sorting (low-to-high & high-to-low).
 🔹Book tours with auto-discounts (based on booking value).
 🔹Submit and view feedback.
 
-###✅ Data Persistence:
+ ###✅ Data Persistence:
 
 🔹All data (tours, users, bookings) saved in files.
 

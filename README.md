@@ -15,9 +15,9 @@ I’m thrilled to share my console-based Tour Management System designed to stre
 🔹Book tours with auto-discounts (based on booking value).
 🔹Submit and view feedback.
 
- ###✅ Data Persistence:
+ ### ✅ Data Persistence:
 
 🔹All data (tours, users, bookings) saved in files.
 
-##🛠 Tech Stack:
+## 🛠 Tech Stack:
 C++ (File I/O, Control Structures)
